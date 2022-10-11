@@ -3,3 +3,6 @@
 ### Лекция 2. Структуры данных I [[colab]](https://colab.research.google.com/drive/1vStmOSAN-Ze14P5DwIx53n1mc6JgQ_R5?usp=sharing) [[ipynb]](./lecture_02/lecture2.ipynb) [[стрим]](https://youtu.be/Mskp-bN8_dk) 
 
 ### Лекция 3. Структуры данных II [[colab]](https://colab.research.google.com/drive/1JEme-RaZovLT_1kR1L6OebdWtMqSJw6U?usp=sharing) [[ipynb]](./lecture_03/lecture3.ipynb) [[стрим]](https://youtu.be/irXHf0tI9eQ) 
+
+### Лекция 4. Функции [[colab]](https://colab.research.google.com/drive/1FIuGk2SH5FdQgzvgprq4iTqGcNtBRn2-?usp=sharing) [[ipynb]](./lecture_04/lecture4.ipynb) [[стрим]](https://youtu.be/k7pPaE0PmPA) 
+
