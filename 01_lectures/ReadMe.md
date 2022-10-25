@@ -7,3 +7,5 @@
 ### Лекция 4. Функции I [[colab]](https://colab.research.google.com/drive/1FIuGk2SH5FdQgzvgprq4iTqGcNtBRn2-?usp=sharing) [[ipynb]](./lecture_04/lecture4.ipynb) [[стрим]](https://youtu.be/k7pPaE0PmPA) 
 
 ### Лекция 5. Функции II [[colab]](https://colab.research.google.com/drive/1FIuGk2SH5FdQgzvgprq4iTqGcNtBRn2-?usp=sharing) [[ipynb]](./lecture_05/lecture4.ipynb) [[стрим]](https://youtu.be/bok2j8b-LtA) 
+
+### Лекция 6. Введение в numpy [[colab]](https://colab.research.google.com/drive/1DKZxYkr1m3VXlnEyjPzaS1xNi3MkWzlW?usp=sharing) [[ipynb]](./lecture_06/lecture6.ipynb) [[стрим]](https://youtu.be/DzI0F-Qh4sI) 
