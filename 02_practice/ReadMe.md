@@ -10,6 +10,6 @@
 
 ### Практика 4. Решение задач с применением функций [[colab]](https://colab.research.google.com/drive/1RFA-fDVxrOu4Am5DnFfwuKVSpEoLE3kA?usp=sharing) [[ipynb]](./practice4_tasks.ipynb) [[контест]](https://contest.yandex.ru/contest/41188/enter/) 
 
-### Практика 5. -
+### Практика 5. Решение задач с применением функций [[контест]](./practice5_tasks.md) 
 
 ### Практика 6. Решение задач с применением numpy [[colab]](https://colab.research.google.com/drive/1BcE5enozr2h-eAgBi8fIAe7lWpTZ4Rtw?usp=sharing) [[ipynb]](./practice6_tasks.ipynb) [[контест]](https://contest.yandex.ru/contest/41874/enter/) 
