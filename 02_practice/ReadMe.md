@@ -13,3 +13,5 @@
 ### Практика 5. Решение задач с применением функций [[контест]](./practice5_tasks.md) 
 
 ### Практика 6. Решение задач с применением numpy [[colab]](https://colab.research.google.com/drive/1BcE5enozr2h-eAgBi8fIAe7lWpTZ4Rtw?usp=sharing) [[ipynb]](./practice6_tasks.ipynb) [[контест]](https://contest.yandex.ru/contest/41874/enter/) 
+
+### Практика 7. Решение задач с применением pandas [[контест]](./practice7_tasks.md)
