@@ -9,3 +9,5 @@
 ### Лекция 5. Функции II [[colab]](https://colab.research.google.com/drive/1FIuGk2SH5FdQgzvgprq4iTqGcNtBRn2-?usp=sharing) [[ipynb]](./lecture_05/lecture4.ipynb) [[стрим]](https://youtu.be/bok2j8b-LtA) 
 
 ### Лекция 6. Введение в numpy [[colab]](https://colab.research.google.com/drive/1DKZxYkr1m3VXlnEyjPzaS1xNi3MkWzlW?usp=sharing) [[ipynb]](./lecture_06/lecture6.ipynb) [[стрим]](https://youtu.be/DzI0F-Qh4sI) 
+
+### Лекция 7. Введение в pandas [[плейлист]](https://youtube.com/playlist?list=PLD-piGJ3Dtl1Kh7jHGyEQRcA5hBe45GT5)
